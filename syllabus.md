@@ -3,7 +3,7 @@ layout: page
 title: Syllabus
 catalog: FISH 497
 credits: 3
-semester: Spring 2018
+semester: Spring 2019
 professor: Dr. Steven Roberts
 office: FTR 232
 email: sr320@uw.edu
