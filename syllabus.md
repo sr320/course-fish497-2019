@@ -57,17 +57,7 @@ A version of the textbook available free online: [http://r4ds.had.co.nz/](http:/
 
 ### Course Description
 
-Computers are increasingly essential to the study of all aspects of
-biology. Data management skills are needed for entering data without errors,
-storing it in a usable way, and extracting key aspects of the data for
-analysis. Basic programming is required for everything from accessing and
-managing data, to statistical analysis, to modeling. This course will provide an
-introduction to data management, manipulation, and analysis, with an emphasis on
-biological problems. Class will typically consist of short introductions or
-question & answer sessions, followed by hands on computing exercises. The course
-will be taught using bash, R, and Jupyter Notebooks, but the concepts learned will easily apply to
-all programming languages and data analysis. No background in
-programming is required.
+Data management skills are needed for entering data without errors, storing it in a usable way, and extracting key aspects of the data for analysis. This course will provide an introduction to data management, manipulation, and analysis, with an emphasis on biological problems. Class will typically consist of short introductions or question & answer sessions, followed by hands on computing exercises. The course will be taught using bash, R, and Jupyter Notebooks, but the concepts learned will easily apply to all other computational work. There will be an emphasis on reproducible research which includes the use of R markdown and version control. Students will need to come to class each week having completed the assigned readings. Once we learn how to import data, we will explore basic analysis procedures involving summarizing, gathering, spreading, filtering, separating, uniting, selecting, counting, random sampling, and performing basic arithmetic. The course will culminate in students identifying a data set, identifying a specific research question that can be answered with the data set, and communicate the findings in an effective visual manner. Work on these student projects will begin during week 6 of the course and students will present their work to the class during week 10.
 
 
 ### Prerequisite Knowledge and Skills
