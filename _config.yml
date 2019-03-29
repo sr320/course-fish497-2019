@@ -9,16 +9,16 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Science for SAFS
-description:      'A new undergraduate course with a focus on R - no experience required'
-url:              https://sr320.github.io/course-fish497-2018
-baseurl:          /course-fish497-2018
+title:            Introduction to Data Analysis for Aquatic Sciences
+description:      'A newish course with a focus on R - no experience required'
+url:              https://sr320.github.io/course-fish497-2019
+baseurl:          /course-fish497-2019
 email:            roberts.sbr@gmail.com
-feedbackurl:      
+feedbackurl:
 author:
   name:           'Steven Roberts'
   url:            https://twitter.com/sr320
 
 github:
-  repo:           https://github.com/sr320/course-fish497-2018
+  repo:           https://github.com/sr320/course-fish497-2019
   #               Be sure the 'Issues' feature is activated in 'Settings'
