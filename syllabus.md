@@ -77,11 +77,7 @@ Knowledge of basic biology.
 
 ### Purpose of Course
 
-In this course you will learn all of the fundamental aspects of computer
-programming that are necessary for conducting biological research. By the end of
-the course you will be able to use these tools to import data into R, perform
-analysis on that data, and export the results to graphs, text files, and
-databases. **By learning how to get the computer to do your work for you, you will be able to do more science faster.**
+In this course you will learn fundamental aspects of data acquisition, data wrangling, and visualization that are necessary for conducting biological and ecological research. By the end of the course you will be able to import data into R, perform analysis on that data, and export the results to graphs, and presentations. Upon learning basic skills, students will identify a research question and corresponding data set to analyze. By learning how to get the computer to do your work for you, you will be able to more effectively analyze complex data sets and communicate the findings of your analyses.
 
 
 ### Course Goals and Objectives
