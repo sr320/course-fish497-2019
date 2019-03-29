@@ -50,10 +50,9 @@ periodically for updates.
 
 
 
-### Textbook
+### Reading Materials
 
-Supplemental Reading will be from the text: **R for Data Science** by Garrett Grolemund and Hadley Wickham.
-A version of the textbook available free online: [http://r4ds.had.co.nz/](http://r4ds.had.co.nz/)
+All required reading material can found on the course website in the schedule. Most readings will be in R for Data Science by Garrett Grolemund and Hadley Wickham. A version of the textbook is available free online at http://r4ds.had.co.nz/. Additional readings will include material developed as part of the Data Carpentry: Ecology Curriculum and R vignettes. Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research.
 
 ### Course Description
 
@@ -65,12 +64,12 @@ Data management skills are needed for entering data without errors, storing it i
 Knowledge of basic biology.
 
 
-### Purpose of Course
+### Course Objectives
 
 In this course you will learn fundamental aspects of data acquisition, data wrangling, and visualization that are necessary for conducting biological and ecological research. By the end of the course you will be able to import data into R, perform analysis on that data, and export the results to graphs, and presentations. Upon learning basic skills, students will identify a research question and corresponding data set to analyze. By learning how to get the computer to do your work for you, you will be able to more effectively analyze complex data sets and communicate the findings of your analyses.
 
 
-### Course Goals and Objectives
+### Learning Goals
 
 Students completing this course will be able to:
 
@@ -131,12 +130,7 @@ submitted via Canvas.
 
 ### Course Technology
 
-Students are required to provide their own laptops and to install free and open
-source software on those laptops (see [Setup]({{ site.baseurl }}/computer-setup)
-for installation instructions). Support will be provided by the instructor in
-the installation of required software. If you don't have access to a laptop
-please contact the instructor and they will do their best to provide you with
-one.
+Students are required to provide their own laptops and to install free and open source software on those laptops (see Setup for installation instructions). Support will be provided by the instructor in the installation of required software. The Student Technology Loan Program (https://stlp.uw.edu/) also allows students to borrow laptops on a first come, first serve basis.
 
 
 ## UW Policies
@@ -187,10 +181,11 @@ and I will do my best to help.**
 
 ## Grading Policies
 
-Grading for this course will revolve around a combination of weekly assignments (80%)
-and weekly summary sheets (20%).
+There will be 10 equally weighted assignments due on Canvas at 11:59 pm on Friday. Weekly summary sheets will be due in class on Thursday. Assignments can be found on the course website under schedule. Weekly assignments will be based primarily on the readings and class activities during weeks 1-5. During weeks 6-10 the weekly assignments will consist of a) readings and class activities and b) questions specific to student projects. Weekly assignments will assess the students progress on Learning Goals 1,2, 3, 4 and 6. The Weekly summary sheets align with Learning Goals 1, 2, 4, 5, and 6. The Final Presentation will assess the students’ competency in Learning Goals 3, 4, 5, and 6.
 
-There will be 10 equally weighted assignments. These will be due on Canvas at 11:59 on Friday. Weekly summary sheets will be due as in class on Thursday.  
+Weekly Assignments - 70%
+Weekly Summary Sheets - 10%
+Final Presentation - 20%
 
 
 
