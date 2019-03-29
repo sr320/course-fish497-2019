@@ -88,13 +88,14 @@ databases. **By learning how to get the computer to do your work for you, you wi
 
 Students completing this course will be able to:
 
-* Understand how to navigate a computer file system
-* Create spreadsheets using proper formatting for downstream analysis
-* Write simple computer programs in R
-* Automate data analysis
-* Apply these tools to address biological questions
-* Apply general data management and analysis concepts to other programming
-  languages
+- Understand how to navigate a computer file system
+- Create spreadsheets using proper formatting for downstream analysis
+- Synthesize complex data sets to address a pre-defined question.
+- Evaluate the efficiency of R code to perform basic tasks.
+- Effectively visually communicate data analysis products.
+- Develop a reproducible data analysis workflow
+
+
 
 
 
