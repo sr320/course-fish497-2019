@@ -27,6 +27,6 @@ exercises: ['Exercise Template', 'Exercise Template']
 ## [Week 1 "Quiz" on Canvas](https://canvas.uw.edu/courses/1131545/quizzes/1033881)
 
 
-Summary Sheets Due Thursday in Class
+Summary Sheets Due Friday
 
 > This is a sheet of paper where you use a writing instrument to create a mindmap / cheat sheet.
