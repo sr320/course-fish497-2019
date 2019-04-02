@@ -4,7 +4,7 @@ class: center, middle
 ## Data Science for SAFS
 
 
-https://sr320.github.io/course-fish497-2018/
+https://sr320.github.io/course-fish497-2019
 
 
 Steven Roberts
@@ -34,28 +34,12 @@ Steven Roberts
 
 --
 
-- Understand how to navigate a computer file system
-
---
-
-- Create spreadsheets using proper formatting for downstream analysis
-
---
-
-- Write simple computer programs in R
-
---
-
-- Automate data analysis
-
---
-
-- Apply these tools to address biological questions
-
---
-
-- Apply general data management and analysis concepts to other programming languages
-
+1) Understand how to navigate a computer file system
+2) Create spreadsheets using proper formatting for downstream analysis
+3) Synthesize complex data sets to address a pre-defined question.
+4) Evaluate the efficiency of R code to perform basic tasks.
+5) Effectively visually communicate data analysis products.
+6) Develop a reproducible data analysis workflow
 
 
 
@@ -83,12 +67,6 @@ Steven Roberts
 
 
 ---
-### Course Highlights
-
-![wiki](https://d.pr/i/na1JSM+)
-
-
----
 
 ### Textbook
 
@@ -97,27 +75,12 @@ Steven Roberts
 ---
 class: center, middle
 
-### Communication
-
-Slack
-
-
-
----
 
 ### Class time
 
 
 
-- I will use a partially flipped model
 
-- Likewise you will be expected to make progress outside of class.
-
---
-
-- Tuesday will be partial content delivery
-
-- Thursday all hands on
 
 
 ---
@@ -125,17 +88,6 @@ Slack
 
 
 ### End of this week
-
---
-
-- Thursday AM - Summary Sheet
-
---
-
-- Assignment completed (based on readings and exercises)
-- this includes signing into Slack group
-
---
 
 - Computer set-up with Bash & R
 
