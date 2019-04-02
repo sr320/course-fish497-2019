@@ -86,6 +86,8 @@ Students completing this course will be able to:
 
 
 
+
+
 ### Teaching Philosophy
 
 This class is taught using a partially flipped, learner-centered, approach, because
