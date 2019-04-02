@@ -183,9 +183,9 @@ and I will do my best to help.**
 
 There will be 10 equally weighted assignments due on Canvas at 11:59 pm on Friday. Weekly summary sheets will be due in class on Thursday. Assignments can be found on the course website under schedule. Weekly assignments will be based primarily on the readings and class activities during weeks 1-5. During weeks 6-10 the weekly assignments will consist of a) readings and class activities and b) questions specific to student projects. Weekly assignments will assess the students progress on Learning Goals 1,2, 3, 4 and 6. The Weekly summary sheets align with Learning Goals 1, 2, 4, 5, and 6. The Final Presentation will assess the students’ competency in Learning Goals 3, 4, 5, and 6.
 
-Weekly Assignments - 70%
-Weekly Summary Sheets - 10%
-Final Presentation - 20%
+Weekly Assignments - 70%    
+Weekly Summary Sheets - 10%   
+Final Presentation - 20%    
 
 
 
