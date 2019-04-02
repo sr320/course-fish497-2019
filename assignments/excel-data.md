@@ -24,9 +24,8 @@ exercises: ['Exercise Template', 'Exercise Template']
 <!-- End of Assignments Template - Be sure to keep the include statements -->
 
 
-## [Week 1 "Quiz" on Canvas](https://canvas.uw.edu/courses/1273428/quizzes/1124477)
+## 1) [Week 1 "Quiz" on Canvas](https://canvas.uw.edu/courses/1273428/quizzes/1124477)
 
 
-Summary Sheets Due Friday
-
-> This is a sheet of paper where you use a writing instrument to create a mindmap / cheat sheet.
+## 2) [Summary Sheets](https://canvas.uw.edu/courses/1273428/assignments/4761919) Due Thursdays
+_This is a sheet of paper where you use a writing instrument to create a mindmap / cheat sheet._
