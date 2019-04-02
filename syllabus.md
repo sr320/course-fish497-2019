@@ -73,17 +73,14 @@ In this course you will learn fundamental aspects of data acquisition, data wran
 
 Students completing this course will be able to:
 
-1) Understand how to navigate a computer
+- Understand how to navigate a computer file system 	
+- Create spreadsheets using proper formatting for downstream analysis 	
+- Synthesize complex data sets to address a pre-defined question 	
+- Evaluate the efficiency of R code to perform basic tasks 	
+- Effectively visually communicate data analysis products 	
+- Develop a reproducible data analysis workflow 	
 
-2) Create spreadsheets using proper formatting for downstream
 
-3) Synthesize complex data sets to address a pre-defined
-
-4) Evaluate the efficiency of R code to perform basic tasks.
-
-5) Effectively visually communicate data analysis products.
-
-6) Develop a reproducible data analysis workflow
 
 
 
