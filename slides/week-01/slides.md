@@ -34,12 +34,12 @@ Steven Roberts
 
 --
 
-1) Understand how to navigate a computer file system
-2) Create spreadsheets using proper formatting for downstream analysis
-3) Synthesize complex data sets to address a pre-defined question.
-4) Evaluate the efficiency of R code to perform basic tasks.
-5) Effectively visually communicate data analysis products.
-6) Develop a reproducible data analysis workflow
+1) Understand how to navigate a computer file system 	
+2) Create spreadsheets using proper formatting for downstream analysis 	
+3) Synthesize complex data sets to address a pre-defined question 	
+4) Evaluate the efficiency of R code to perform basic tasks 	
+5) Effectively visually communicate data analysis products 	
+6) Develop a reproducible data analysis workflow 	
 
 
 
