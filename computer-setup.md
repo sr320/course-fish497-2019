@@ -46,57 +46,32 @@ from [Software Carpentry Lesson](https://github.com/swcarpentry/shell-novice/blo
 > Once installed, you can open a terminal by running the program Git Bash from the Windows start menu.
 
 
-*Here I installed Git for Windows on Windows 7 (64-bit)*
 
+<h4 id="windows">Windows</h4>
 
-## Git for Windows
-
->Important: on the 6th page of the installation wizard (the page titled `Configuring the terminal emulator...`) select `Use Windows' default console window`. If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option. This will provide you with both Git and Bash in the Git Bash program.
-
-
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Git_for_Windows_-_Windows_Internet_Explorer_1BB99C85.png" alt="Git_for_Windows_-_Windows_Internet_Explorer_1BB99C85.png"/>
-
----
-
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Release_Git_for_Windows_2_5_3_·_git-for-windows_git_·_GitHub_-_Google_Chrome_1BB99DAD.png" alt="Release_Git_for_Windows_2_5_3_·_git-for-windows_git_·_GitHub_-_Google_Chrome_1BB99DAD.png"/>
-
----
-
-I left everything as default during installation except ....
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/Git_2_5_3_Setup_1BB99E76.png" alt="Git_2_5_3_Setup_1BB99E76.png"/>
-
-Make sure to select *Use Windows default console window*
-
-
----
-
-Play around...
-From start menu selected Git Bash.
-It is not pretty, but `pwd`, `ls`, work
-
-<img src="http://eagle.fish.washington.edu/cnidarian/skitch/MINGW64__c_Users_sr320_Desktop_1BB99F45.png" alt="MINGW64__c_Users_sr320_Desktop_1BB99F45.png"/>
-
----
-
-
-
-
-
->
-> Other solutions are available for running Bash commands on Windows systems.
-> There is now a Bash shell command-line tool available for Windows 10.
-> Additionally, you can run Bash commands on a remote UNIX computer or server from your Windows machine.
-> This can be done through a Secure Shell (SSH) client.
-> One such client available for free for Windows computers is PuTTY.
-> See the reference below for information on installing and using PuTTY,
-> using the Windows 10 command-line tool, or installing and using a UNIX/Linux emulator.
->
-> #### Reference
-> * [Git for Windows](https://git-for-windows.github.io/)
-> * [How to Install Bash shell command-line tool on Windows 10](https://www.windowscentral.com/how-install-bash-shell-command-line-windows-10)
-> * [Install and Use the Linux Bash Shell on Windows 10](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
-> * [Using the Windows 10 Bash Shell](https://www.howtogeek.com/265900/everything-you-can-do-with-windows-10s-new-bash-shell/)
-> * [Using a UNIX/Linux emulator (Cygwin) or Secure Shell (SSH) client (Putty)](http://faculty.smu.edu/reynolds/unixtut/windows.html)
+<ol>
+  <li>Download the Git for Windows
+<a href="https://git-for-windows.github.io/">installer</a>.</li>
+  <li>Run the installer and follow the steps bellow:
+    <ol>
+      <li>Click on “Next”.</li>
+      <li>Click on “Next”.</li>
+      <li>Click on “Next”.</li>
+      <li>Click on “Next”.</li>
+      <li>Click on “Next”.</li>
+      <li><strong>Select “Use Git from the Windows Command Prompt” and click on
+“Next”.</strong> If you forgot to do this programs that you need for
+the workshop will not work properly. If this happens rerun the
+installer and select the appropriate option.</li>
+      <li>Click on “Next”. <strong>Keep “Checkout Windows-style, commit
+Unix-style line endings” selected.</strong></li>
+      <li><strong>Select “Use Windows’ default console window” and click on
+“Next”.</strong></li>
+      <li>Click on “Next”.</li>
+      <li>Click on “Finish”.</li>
+    </ol>
+  </li>
+</ol>
 
 
 ### R
