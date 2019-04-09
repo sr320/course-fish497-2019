@@ -18,11 +18,21 @@ exercises: ['Navigating the Commandline']
 
 {% include reading.html %}
 
+
+## 1) [Week 2 "Quiz" on Canvas](https://canvas.uw.edu/courses/1273428/quizzes/1124480)
+
+NOTE: Question 13 will have you upload your `code` for the below activity!
+
+## 2) [Summary Sheets](https://canvas.uw.edu/courses/1273428/assignments/4761922) Due Thursday
+_This is a sheet of paper where you use a writing instrument to create a mindmap / cheat sheet._
+
+---
+
 {% include assignment.html %}
 
 <!-- End of Assignments Template - Be sure to keep the include statements -->
 
-## 1) [Week 1 "Quiz" on Canvas](https://canvas.uw.edu/courses/1273428/quizzes/1124480)
+## 1) [Week 2 "Quiz" on Canvas](https://canvas.uw.edu/courses/1273428/quizzes/1124480)
 
 NOTE: Question 13 will have you upload your `code` for the below activity!
 
