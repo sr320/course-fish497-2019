@@ -5,7 +5,6 @@ class: center, middle
 
 R
 
-https://sr320.github.io/course-fish497-2018/
 
 
 Steven Roberts
