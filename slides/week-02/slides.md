@@ -4,7 +4,7 @@ class: center, middle
 ## Data Science for SAFS
 
 
-https://sr320.github.io/course-fish497-2018/
+https://sr320.github.io/course-fish497-2019/
 
 
 Steven Roberts
@@ -13,7 +13,7 @@ Steven Roberts
 
 ---
 
-### Last Week 
+### Last Week
 --
 
 - Advantages of Microsoft Excel
@@ -38,7 +38,7 @@ Steven Roberts
 
 ---
 
-### This week 
+### This week
 --
 
 #### Navigating the computer from the command line
@@ -102,7 +102,7 @@ Steven Roberts
 
 
 ---
-### What does it look like? 
+### What does it look like?
 
 
 <img src="https://d.pr/i/ROcJr9+" alt="prompt" height=400>
