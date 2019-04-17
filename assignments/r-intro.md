@@ -21,13 +21,11 @@ exercises: ['Basic Expressions', 'Basic Variables', 'More Variables', 'Built-in 
 
 {% include reading.html %}
 
-
+dd
 ## 1) [Week 3 "Quiz" on Canvas](https://canvas.uw.edu/courses/1273428/quizzes/1124479)
 
 NOTE: Big Q this week is 11!  
-There are 10 Exercises @
-https://sr320.github.io/course-fish497-2019/assignments/r-intro/
-Create an R script (using Comments to make clear on the exercise and explaining the code) and upload here.
+Create an R script (using Comments to make clear on the exercise and explaining the code) for doing the exercises below.
 
 This R script should be able to run by someone not in the class and make sense.
 
