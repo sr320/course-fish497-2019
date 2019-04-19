@@ -74,6 +74,11 @@ Unix-style line endings” selected.</strong></li>
 </ol>
 
 
+#### Cocalc
+https://cocalc.com/doc/features.html
+
+
+
 ### R
 
 Download and install the [R base system](http://cran.rstudio.com/). I recommend you use the [R studio](http://www.rstudio.com/products/rstudio/download/) to work with the base system.
