@@ -16,6 +16,6 @@ exercises: ['Mass vs Metabolism', 'Adult vs Newborn Size', 'Sexual Dimorphism Ex
 
 {% include reading.html %}
 
-### [Canvas Quiz](https://canvas.uw.edu/courses/1131545/quizzes/1042244)
+### [Canvas Quiz](https://canvas.uw.edu/courses/1273428/quizzes/1124475)
 
 {% include assignment.html %}
