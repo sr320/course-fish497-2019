@@ -1,3 +1,8 @@
+
+library(ggplot2)
+
+
+
 size_mr_data <- data.frame(
   body_mass = c(32000, 37800, 347000, 4200, 196500, 100000, 4290, 
                 32000, 65000, 69125, 9600, 133300, 150000, 407000, 115000, 
@@ -17,7 +22,7 @@ ggplot(size_mr_data, aes(x = body_mass, y = metabolic_rate)) +
 
 
 ggplot(size_mr_data, aes(x = body_mass, y = metabolic_rate)) +
-  geom_point() + 
+  geom_point(size = 5, alpha = 0.5) + 
   scale_y_log10() +
   scale_x_log10() +
   labs(x = "Body Mass", y = "Metabolic Rate",
