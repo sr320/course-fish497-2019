@@ -28,11 +28,11 @@ Be sure to review Week 4 and Week 5 material to re-familiarize yourself with dpl
 
 ****
 
-### [Canvas Quiz](https://canvas.uw.edu/courses/1131545/quizzes/1045503/edit)
+### [Canvas Quiz](https://canvas.uw.edu/courses/1273428/quizzes/1124473)
 
 
 **Exercise 1**    
-A few weeks ago you submitted a data set and associated question(s). Create a Github repository as we did this week with the inside of the class organization named "lastname-wordrelatedtodata". Include a script that reads in data locally or from url. In the Readme file describe the dataset and primary question you have regarding it.
+Make sure you have a readme file in your new repo (@ https://github.com/fish497-2019) that describes your dataset.
 
 ---
 
@@ -52,7 +52,7 @@ In the repository you created, begin to tackle the question you posed. Minimally
 ---
 
 **Exercise 5**      
-In at least 3 other repositories created this week make a suggested R code edit that generates a) summary information of the given data set and b) a new plot or revision to current plot. Please do this as an `Issue`. 
+In at least 1 other repositories created this week make a suggested R code edit that generates a) summary information of the given data set and b) a new plot or revision to current plot. Please do this as an `Issue`. 
 
 ---
 
