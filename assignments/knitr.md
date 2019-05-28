@@ -27,8 +27,9 @@ exercises: ['Knitr']
 
 ****
 
-### [Canvas Quiz](https://canvas.uw.edu/courses/1131545/quizzes/1046248)
+### [Canvas Quiz](https://canvas.uw.edu/courses/1273428/quizzes/1124478)
 
+---
 
 **Exercise 1**    
 Continue working on updating your repo from last week, with an emphasis on generating improved plots.
